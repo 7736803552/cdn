@@ -1,0 +1,142 @@
+
+.netwrk {
+    background: url('../images/background/netwrk.jpg');
+    background-size: 100% 100%;
+    height: 400px;    
+}
+.netwrk h4{
+    padding: 10px;
+    background: #091748ab;
+    width: 30%;
+/*    box-shadow: 5px 5px 0px 0px #e4e4e4;*/
+    border-top-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+    color: #fff;
+    font-size: 20px;
+}
+.netwrk .p1{
+    width: 40%;
+}
+.netwrk .p2{
+    width: 60%;
+}
+.netwrk .p3{
+    width: 80%;
+}
+.well{
+    margin: 10px;
+}
+
+
+.py{
+    background: url('../images/background/py.png');
+    background-size: 100% 100%;
+    height: 400px;    
+}
+.py h4{
+    padding: 10px;
+    background: #091748ab;
+    width: 30%;
+/*    box-shadow: 5px 5px 0px 0px #e4e4e4;*/
+    border-top-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+    color: #fff;
+    font-size: 20px;
+}
+.py .p1{
+    width: 40%;
+}
+.py .p2{
+    width: 60%;
+}
+.py .p3{
+    width: 80%;
+}
+
+
+.jv{
+    background: url("../images/background/JAVA_Banner.jpg");
+    background-size: 100% 100%;
+    height: 400px;    
+}
+.jv h4{
+    padding: 10px;
+    background: #091748ab;
+    width: 30%;
+/*    box-shadow: 5px 5px 0px 0px #e4e4e4;*/
+    border-top-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+    color: #fff;
+    font-size: 20px;
+}
+.jv .p1{
+    width: 40%;
+}
+.jv .p2{
+    width: 60%;
+}
+.jv .p3{
+    width: 80%;
+}
+
+
+.php{
+    background: url("../images/background/php.jpg");
+    background-size: 100% 100%;
+    height: 400px;    
+}
+.php h4{
+    padding: 10px;
+    background: #091748ab;
+    width: 30%;
+/*    box-shadow: 5px 5px 0px 0px #e4e4e4;*/
+    border-top-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+    color: #fff;
+    font-size: 20px;
+}
+.php .p1{
+    width: 40%;
+}
+.php .p2{
+    width: 60%;
+}
+.php .p3{
+    width: 80%;
+}
+
+
+.asp{
+    background: url("../images/background/asp.jpg");
+    background-size: 100% 100%;
+    height: 400px;    
+}
+.asp h4{
+    padding: 10px;
+    background: #091748ab;
+    width: 30%;
+/*    box-shadow: 5px 5px 0px 0px #e4e4e4;*/
+    border-top-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+    color: #fff;
+    font-size: 20px;
+}
+.asp .p1{
+    width: 40%;
+}
+.asp .p2{
+    width: 60%;
+}
+.asp .p3{
+    width: 80%;
+}
+
+.proc{
+    height: 500px;
+}
+
+.bag{
+   background: url("../images/background/placement.png"); 
+    background-size: 100% 100%;
+    height: 400px;
+}
